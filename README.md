@@ -9,7 +9,7 @@ A full-stack CRUD Laravel and ReactJs E-Commerce platform with a secure authenti
 
 ## Getting Started
 
-1. Clone the repo: `git clone https://github.com/itsmar1/tech-ecommerce.git`
+1. Clone the repo: `git clone https://github.com/SuperStar0718/Ecommerce-Laravel.git`
 2. cd to `server` folder, create and fill in `.env` file. See `.env.example`
 3. Set your MySQL Databse keys
 4. Set your Amazon S3 keys
